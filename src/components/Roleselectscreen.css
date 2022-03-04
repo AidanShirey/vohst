@@ -37,12 +37,16 @@
   background-color: black;
 }
 
+.promptdisc:hover {
+  animation: App-logo-spin infinite 5s linear;
+}
+
 .promptdiscname {
   position: absolute;
   font-weight: bold;
   font-size: 1.5rem;
   color: whitesmoke;
-  transform: translateY(2.5rem);
+  transform: translateY(2.75rem);
 }
 
 .promptdisc::before {
