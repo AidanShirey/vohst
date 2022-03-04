@@ -1,0 +1,56 @@
+.djscreen {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.column {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.livestream {
+  width: 100%;
+  height: 50%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.play-track {
+  width: 100%;
+  height: 10%;
+  background-color: #343434;
+  border: 1px solid black;
+}
+
+.dj-controls {
+  width: 100%;
+  height: 40%;
+  background-color: #343434;
+  border: 1px solid black;
+}
+
+.livestream-effects {
+  width: 100%;
+  height: 40%;
+  background-color: #343434;
+  border: 1px solid black;
+}
+
+.import-library {
+  width: 100%;
+  height: 40%;
+  background-color: #343434;
+  border: 1px solid black;
+}
+
+.chat {
+  width: 100%;
+  height: 20%;
+  background-color: #343434;
+  border: 1px solid black;
+}

@@ -1,0 +1,35 @@
+.viewerscreen {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.stream-column {
+  width: 80%;
+  height: 100%;
+}
+
+.chat-column {
+  width: 20%;
+  height: 100%;
+}
+
+.livestream {
+  width: 100%;
+  height: 80%;
+  background-color: black;
+}
+
+.reactions {
+  width: 100%;
+  height: 20%;
+  background-color: #343434;
+  border: 1px solid black;
+}
+
+.chat {
+  width: 100%;
+  height: 100%;
+  background-color: #343434;
+  border: 1px solid black;
+}
