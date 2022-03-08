@@ -1,7 +1,7 @@
 import React from 'react'
 import './Viewerscreen.css'
 
-function Viewerscreen() {
+function Viewerscreen(props) {
   return (
     <div className='viewerscreen'>
         <div className='stream-column'>

@@ -1,7 +1,7 @@
 import React from 'react'
 import './Djscreen.css'
 
-function Djscreen() {
+function Djscreen(props) {
   return (
     <div className='djscreen'>
         <div className='column'>
